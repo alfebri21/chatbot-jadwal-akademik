@@ -68,3 +68,9 @@ Riwayat pertanyaan, jawaban, dan waktu respons disimpan secara lokal ke `history
 File `.env` dalam repository hanya berisi placeholder. Setelah mengisinya dengan API key asli di komputer, jangan unggah atau commit perubahan file tersebut ke GitHub.
 
 Jika `.env` sudah tercatat dalam repository, menambahkannya ke `.gitignore` tidak otomatis menghentikan pelacakan file tersebut.
+
+## Contoh Penggunaan
+
+Contoh pencarian daftar mata kuliah yang dijadwalkan pada hari Senin.
+
+<img width="600" height="226" alt="image" src="https://github.com/user-attachments/assets/bec6e9f1-a5e1-4991-855a-26447669efd3" />
